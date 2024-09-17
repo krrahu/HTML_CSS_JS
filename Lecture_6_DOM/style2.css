@@ -1,0 +1,21 @@
+#heading1 {
+    color: aqua;
+    background-color: blueviolet;
+}
+
+body {
+    background-color: greenyellow;
+}
+
+div {
+    text-align: center;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    border: 1px salmon;
+    margin: 5px;
+    text-align: center;
+    background-color: brown;
+}

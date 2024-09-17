@@ -1,0 +1,12 @@
+div {
+    height: 100px;
+    width: 100px;
+    border: 1px salmon;
+    margin: 5px;
+    text-align: center;
+    background-color: rgb(135, 168, 160);
+}
+
+body {
+    color: blue;
+}
