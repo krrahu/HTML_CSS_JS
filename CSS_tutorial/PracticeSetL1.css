@@ -1,0 +1,24 @@
+/* practice set 2 Q-1 */
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+/* practice set 2 Q-1 */
+
+h1 {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+
+/* practice set 2 Q-3 */
+
+#outer {
+    font-size: 25px;
+}
+
+#inner {
+    font-size: 10px;
+}
